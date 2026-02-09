@@ -11,7 +11,7 @@
 
 [Features](#-key-features) • [Dashboard Views](#-dashboard-overview) • [SQL Queries](#-sql-analysis) • [Contact](#-contact)
 
-### 🌐 **View Live Interactive Report**
+### 🌐 [**View Live Interactive Report**](https://app.powerbi.com/groups/0e8cfd98-3b96-4ae5-93e1-1a02119305a3/reports/f13babb3-4943-4714-ada9-fb49c5da3fe8/18ce33c5ae70d6171d2f?experience=power-bi)
 
 💡 **Feel free to explore the `.pbix` file and adapt it to your own retail datasets!**
 
